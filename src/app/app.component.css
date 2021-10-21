@@ -1,0 +1,156 @@
+.title_info{
+    margin-left: 35px;
+    font-size: 15px;
+    
+}
+.email_info{
+    margin-right: 40px;
+}
+
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+  }
+  
+  .wrapper {
+    width: 100%;
+    max-width: 31.25rem;
+    /* margin: 6rem auto; */
+  }
+  
+  .label {
+    font-size: .625rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: +1.3px;
+    margin-bottom: 1rem;
+  }
+  
+  .searchBar {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  #searchQueryInput {
+    width: 60%;
+    height: 2.8rem;
+    background: #e3e4e6;
+    outline: none;
+    border: none;
+    border-radius: 1.625rem;
+    padding: 0 3.5rem 0 1.5rem;
+    font-size: 1rem;
+    margin-left: 100px;
+  }
+  
+  #searchQuerySubmit {
+    width: 3.5rem;
+    height: 2.8rem;
+    margin-left: -3.5rem;
+    background: none;
+    border: none;
+    outline: none;
+  }
+  
+  #searchQuerySubmit:hover {
+    cursor: pointer;
+  }
+
+  .carousel {
+    border-radius: 20px 20px 20px 20px;
+    overflow: hidden;
+
+}
+.prev_info{
+    background-color: black;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+
+}
+
+.i_info{
+    margin-top: 10px;
+    font-size: large;
+    color: white;
+}
+
+.bg_color{
+    background-color: #51a867;
+}
+
+.touch_bg_color{
+    background-color :#575957;
+}
+
+
+.is-invalid{
+    border: 1px solid #f90628d9;
+    }
+
+    .lorem_text{
+        font-size: 12px;
+    }
+    .contact_info{
+        padding: 25px;
+    }
+    .font_icons {
+        position: absolute;
+        right: 55px;
+    }
+
+    .input_fileds {
+        border-bottom:1px solid #fff;
+        width: 100%;
+        background-color: #575957;
+        box-shadow: none;
+        outline: none;
+    }
+
+   
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+       
+      }
+
+      .table_info {
+          margin-top: 20px;
+          width: 100%;
+          text-align: center;
+          height:100px;
+      }
+
+      th{
+          text-align: center;
+      }
+
+      .btn-success{
+    background-color: #51a867;
+      }
+
+   
+    
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: 2.5rem;
+}
+
+.btnDisabled{
+    background: #a7afab !important;
+    border: 1px solid #a7afab !important;
+}
+
+
+  
+  .font_icons {
+  position:absolute;
+  right:55px
+  }
+
+
+#search_info{
+    width:24px;
+    height:24px
+}
